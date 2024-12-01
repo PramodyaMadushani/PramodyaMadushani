@@ -1,3 +1,5 @@
+[![MasterHead](https://buddy.works/_next/image?url=%2Fblog%2Fthumbnails%2Fgithub-multiple-integrations%2Fgithub-multiple-integrations-cover.png&w=1920&q=75)](https://PramodyaMadushani.io)
+
 <h1 align="center">Hi 👋, I'm Pramodya Madushani</h1>
 <h3 align="center">A passionate Software developer from Sri Lanka</h3>
 
